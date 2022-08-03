@@ -3,8 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
-	<packaging>war</packaging>
-	<version>0.0.9</version>
+	<packaging>war</package
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
 
